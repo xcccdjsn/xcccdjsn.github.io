@@ -17,24 +17,35 @@
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;margin:0px;margin-top:4px;text-align:center;&amp;quot;&amp;gt;interface&amp;lt;/p&amp;gt;&amp;lt;hr style=&amp;quot;border-style:solid;&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;p style=&amp;quot;margin:0px;margin-left:4px;&amp;quot;&amp;gt;+ method(arg): type&amp;lt;/p&amp;gt;\" style=\"verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Courier New;fontSize=11;labelBackgroundColor=#53FFA0;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=dots;imageWidth=24;imageHeight=24;autosize=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"150\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 150,
     "h": 60,
-    "aspect": "fixed"
+    "aspect": "fixed",
+    "title": "interface"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;margin:0px;margin-top:4px;text-align:center;&amp;quot;&amp;gt;interface&amp;lt;/p&amp;gt;&amp;lt;hr style=&amp;quot;border-style:solid;&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;p style=&amp;quot;margin:0px;margin-left:4px;&amp;quot;&amp;gt;+ field1: Type&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;hr style=&amp;quot;border-style:solid;&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;p style=&amp;quot;margin:0px;margin-left:4px;&amp;quot;&amp;gt;+ method1(Type): Type&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;\" style=\"verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Courier New;fontSize=11;labelBackgroundColor=#53FFA0;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=dots;autosize=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"170\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 170,
     "h": 80,
-    "aspect": "fixed"
+    "aspect": "fixed",
+    "title": "interface"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;margin:0px;margin-top:4px;text-align:center;&amp;quot;&amp;gt;class&amp;lt;/p&amp;gt;&amp;lt;hr size=&amp;quot;1&amp;quot; style=&amp;quot;border-style:solid;&amp;quot;&amp;gt;&amp;lt;p style=&amp;quot;margin:0px;margin-left:4px;&amp;quot;&amp;gt;+ field1: Type&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;hr size=&amp;quot;1&amp;quot; style=&amp;quot;border-style:solid;&amp;quot;&amp;gt;&amp;lt;p style=&amp;quot;margin:0px;margin-left:4px;&amp;quot;&amp;gt;+ method1(Type): Type&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;\" style=\"verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Courier New;fontSize=11;labelBackgroundColor=#56B5FF;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=dots;autosize=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"170\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 170,
     "h": 80,
-    "aspect": "fixed"
+    "aspect": "fixed",
+    "title": "class"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;margin:0px;margin-top:4px;text-align:center;&amp;quot;&amp;gt;abstract class&amp;lt;/p&amp;gt;&amp;lt;hr style=&amp;quot;border-style:solid;&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;p style=&amp;quot;margin:0px;margin-left:4px;&amp;quot;&amp;gt;+ field1: Type&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;hr style=&amp;quot;border-style:solid;&amp;quot; size=&amp;quot;1&amp;quot;&amp;gt;&amp;lt;p style=&amp;quot;margin:0px;margin-left:4px;&amp;quot;&amp;gt;+ method1(Type): Type&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;\" style=\"verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Courier New;fontSize=11;labelBackgroundColor=#FAFFA1;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=dots;autosize=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"170\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 170,
     "h": 80,
-    "aspect": "fixed"
+    "aspect": "fixed",
+    "title": "abstract class"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=open;endFill=0;endSize=12;html=1;rounded=0;strokeColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#1DC7FF;labelBackgroundColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"27\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"348\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 348.00000000000006,
+    "h": 27.000000000000128,
+    "aspect": "fixed",
+    "title": "dependency"
   }
 ]</mxlibrary>
